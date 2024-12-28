@@ -16,7 +16,7 @@ Out-of-tree llvm obfuscation pass，可在编译时对二进制进行混淆，�
 - [Arkari](https://github.com/KomiMoe/Arkari)
 - [ollvm-rust](https://github.com/0xlane/ollvm-rust)
 - [ollvm-rust](https://github.com/MMitsuha/ollvm-rust)
-- @MMitsuha
+- [@MMitsuha](https://github.com/MMitsuha)
 
 > 注意：该项目当前仅在 macos 15.2 下测试，其他平台未测试
 
